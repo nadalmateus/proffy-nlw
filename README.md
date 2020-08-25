@@ -1,6 +1,9 @@
 <h1 align="center">
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
+<p align="center">
+  Projeto desenvolvido durante a NLW 02.
+</p>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,6 +16,7 @@
 <p align="center">
   <img alt="Proffy" src=".github/proffy.png" width="100%">
 </p>
+
 
 ## 🔖 Layout
 
