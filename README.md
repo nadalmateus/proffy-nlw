@@ -16,7 +16,7 @@
 
 ## 🔖 Layout
 
-Use o[Figma](http://figma.com/) para acessá-lo.
+Use o [Figma](http://figma.com/) para acessá-lo.
 
 - [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 - [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
