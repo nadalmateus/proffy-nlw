@@ -2,7 +2,8 @@
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
 <p align="center">
-  Projeto desenvolvido durante a NLW 02.
+  Projeto desenvolvido durante a NLW 02. </br>
+  Ache seus Proffy's da melhor maneira possivel!
 </p>
 
 <p align="center">
